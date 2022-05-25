@@ -1,0 +1,5 @@
+/data
+/letsencrypt
+/.vscode
+/.history
+.env
